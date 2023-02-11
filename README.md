@@ -7,7 +7,7 @@ Evento incrível, tendo o de "menos" o código, é grandes ensinamentos de ser u
 Link:https://lnkd.in/dnFq84w2
 
 Página inicial do StarBucks, com HTML, CSS e JavaScript. <br>
-Usamos DOM, e function para mudar dinamicamente a bebida e a cor de fundo quando outra bebida é escolhida. 
+O site pode não necessariamente ser idêntico ao original, sendo mais importante o aprendizado. Usamos DOM, e function para mudar dinamicamente a bebida e a cor de fundo quando outra bebida é escolhida. 
 
 ## 
 
