@@ -7,3 +7,9 @@ Link:https://lnkd.in/dnFq84w2
 
 Página inicial do StarBucks, com HTML, CSS e JavaScript. <br>
 Usamos DOM, e function para mudar dinamicamente a bebida e a cor de fundo quando outra bebida é escolhida. 
+
+## 
+
+<img src="https://raw.githubusercontent.com/victorSmenezes/Starbucks/337045944e258f2daff864c38af672453a3e833e/images/Starbucks-3.png" />
+<img src="https://raw.githubusercontent.com/victorSmenezes/Starbucks/337045944e258f2daff864c38af672453a3e833e/images/Starbucks-1.png" />
+<img src="https://raw.githubusercontent.com/victorSmenezes/Starbucks/337045944e258f2daff864c38af672453a3e833e/images/Starbucks-2.png" />
